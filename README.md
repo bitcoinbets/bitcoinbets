@@ -1,0 +1,2 @@
+# bitcoinbets
+Bitcoinbets coin
